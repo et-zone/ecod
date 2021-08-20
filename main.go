@@ -7,7 +7,7 @@ import (
 
 	"flag"
 
-	"github.con/et-zone/ecod/template"
+	"github.com/et-zone/ecod/template"
 )
 
 func main() {
